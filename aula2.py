@@ -8,4 +8,5 @@ for j in range (val):
       print("*", end="")
    print('')
 print ("")
-prfint ("quadrado")
+print ("quadrado -          -------------")
+print ("OK")
